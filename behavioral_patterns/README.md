@@ -6,6 +6,6 @@ Behavioral Patterns
 4. Command
 5. Publisher-Subscriber
 6. Visitor
-7. Memento (Опекун)
+7. Memento (Опекун) ✅
 8. Template method
 9. State 
