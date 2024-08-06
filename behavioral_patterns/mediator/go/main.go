@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	m := &model.СorporateMessenger{}
+	m := &model.CorporateMessenger{}
 
 	bob := model.NewLeader("Bob", m)
 	paul := model.NewLeader("Paul", m)
