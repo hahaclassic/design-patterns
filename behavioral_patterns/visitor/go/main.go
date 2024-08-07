@@ -14,12 +14,10 @@ func main() {
 	area := &model.AreaCalculator{}
 	perimeter := &model.PerimeterCalculator{}
 
-	square.Accept(area)
-	rect.Accept(area)
-	circle.Accept(area)
-	fmt.Println()
-
-	square.Accept(perimeter)
-	rect.Accept(perimeter)
-	circle.Accept(perimeter)
+	shapes := []model.Shape{square, rect, circle}
+	for _, s := range shapes {
+		s.Accept(area)
+		s.Accept(perimeter)
+		fmt.Println()
+	}
 }

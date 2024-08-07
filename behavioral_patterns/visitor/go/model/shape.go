@@ -7,6 +7,6 @@ type Visitor interface {
 }
 
 type Shape interface {
-	getType() string
-	accept(v Visitor)
+	GetType() string
+	Accept(v Visitor)
 }
