@@ -5,7 +5,7 @@ Behavioral Patterns
 3. Stategy
 4. Command
 5. Publisher-Subscriber
-6. Visitor
+6. Visitor Go✅
 7. Memento (Опекун) ✅
 8. Template method
 9. State 
