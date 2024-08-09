@@ -1,6 +1,6 @@
 package main
 
-import filesystem "github.com/hahaclassic/design-patterns/composite/go/file_system"
+import filesystem "github.com/hahaclassic/design-patterns/structural_patterns/composite/go/file_system"
 
 func main() {
 	folder1 := filesystem.NewFolder("go")
