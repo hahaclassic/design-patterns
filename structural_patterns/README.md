@@ -6,4 +6,4 @@
 4. Decorator
 5. Facade
 6. Flyweight
-7. Proxy
+7. Proxy ✅
