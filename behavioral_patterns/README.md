@@ -7,5 +7,6 @@ Behavioral Patterns
 5. Publisher-Subscriber (Observer) ✅
 6. Visitor ✅
 7. Memento (Опекун) ✅
-8. Template method
+8. Template method ✅
 9. State 
+10. Iterator
